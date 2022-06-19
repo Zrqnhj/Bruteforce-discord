@@ -1,2 +1,2 @@
 # Bruteforce-discord
-Bruteforce Token
+Discord: zila.ds4#5650
